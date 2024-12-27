@@ -3,7 +3,7 @@ import requests
 import json
 import base64
 
-logo_path = "E:/DATA SCIENCE - COURSE - GUVI/GUVI Project/Vaccine Usage Prediction/Medical.jpg"
+logo_path = "Medical.jpg"
 
 # Function to encode the image as base64 and set it as background
 def set_background(image_file):
