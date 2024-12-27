@@ -6,4 +6,4 @@ numpy
 scikit-learn
 joblib
 matplotlib
-python
+python-3.11.4
