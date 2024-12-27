@@ -58,3 +58,5 @@ This project focuses on predicting whether individuals are likely to get the H1N
 ## Key Findings
 - The model demonstrated robust performance, with an optimal threshold maximizing precision, recall, accuracy, and F1 scores. The AUC   score confirms the model's reliability in distinguishing individuals who are likely to take the H1N1 vaccine.
 
+## You can access the deployed Streamlit app on Render here: [Streamlit App][(https://vaccine-usage-analysis-and-prediction-6xp9.onrender.com/)].
+
