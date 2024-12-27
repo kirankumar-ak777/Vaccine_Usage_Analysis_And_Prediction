@@ -1,9 +1,8 @@
-Flask
-streamlit
-requests
-pandas
-numpy
-scikit-learn
-joblib
-matplotlib
-python-3.11.4
+Flask==2.3.3
+streamlit==1.25.0
+requests==2.31.0
+pandas==1.5.3
+numpy==1.22.0
+scikit-learn==1.2.2
+joblib==1.4.2
+matplotlib==3.10.0
